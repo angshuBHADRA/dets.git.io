@@ -7,7 +7,7 @@
 
 ## :hourglass: Project Demo
 
-:computer: [Dev Link](https://angshubhadra.github.io/dets.git.io/)
+:computer: [Demo Link](https://angshubhadra.github.io/dets.git.io/)
 
 ## :handshake: Partner 
 [SeekNDestroy9898](/SeekNDestroy9898)
