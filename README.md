@@ -9,5 +9,5 @@
 
 :computer: [Dev Link](https://angshubhadra.github.io/dets.git.io/)
 
-## :handshake: Our Contributors
+## :handshake: Partner 
 [SeekNDestroy9898](/SeekNDestroy9898)
