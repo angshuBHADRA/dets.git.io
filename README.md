@@ -7,4 +7,4 @@
 
 ## :hourglass: Project Demo
 
-:computer: [Dev Link] ( )
+:computer: [Dev Link](https://angshubhadra.github.io/dets.git.io/)
