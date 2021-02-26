@@ -8,3 +8,6 @@
 ## :hourglass: Project Demo
 
 :computer: [Dev Link](https://angshubhadra.github.io/dets.git.io/)
+
+## :handshake: Our Contributors
+[CONTRIBUTORS.md](/CONTRIBUTORS.md)
