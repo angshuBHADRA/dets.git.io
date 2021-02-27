@@ -10,4 +10,4 @@
 :computer: [Demo Link](https://angshubhadra.github.io/dets.git.io/)
 
 ## :handshake: Partner 
-[hashAMAN](/https://github.com/hashAMAN)
+[/https://github.com/hashAMAN](hashAMAN)
