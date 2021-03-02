@@ -7,6 +7,7 @@
 
 ## :hourglass: Project Demo
 
+
 :computer: [Demo Link](https://angshubhadra.github.io/dets.git.io/)
 
 ## :handshake: Partner 
