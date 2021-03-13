@@ -17,8 +17,6 @@ A demo link will be provided soon
 
 
 
-
-
 ## :handshake: Partner 
 
 [hashAMAN](/https://github.com/hashAMAN)
