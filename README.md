@@ -17,7 +17,7 @@
 
 
 
-## :handshake: Partner 
+## :handshake: Contributer
 
 [hashAMAN](/https://github.com/hashAMAN)
 
