@@ -11,9 +11,16 @@
 
 :computer: [Demo Link](https://angshubhadra.github.io/dets.git.io/)
 
+
+
+
 ##  Log in Page.
 
 ![Screenshot 2021-03-13 022437](https://user-images.githubusercontent.com/61795945/110997827-f5b32b80-83a3-11eb-9e88-a5f058c46727.png)
+
+
+
+
 
 
 
@@ -24,9 +31,16 @@
 
 
 
+
+
+
 ## Add Expense.
 
 ![Screenshot 2021-03-28 004551](https://user-images.githubusercontent.com/61795945/112732374-9b979600-8f5f-11eb-8544-1145e8aa4000.png)
+
+
+
+
 
 
 
