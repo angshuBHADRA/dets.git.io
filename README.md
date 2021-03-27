@@ -26,7 +26,17 @@
 
 ## Add Expense.
 
-![![Screenshot 2021-03-28 004551](https://user-images.githubusercontent.com/61795945/112732374-9b979600-8f5f-11eb-8544-1145e8aa4000.png)
+![Screenshot 2021-03-28 004551](https://user-images.githubusercontent.com/61795945/112732374-9b979600-8f5f-11eb-8544-1145e8aa4000.png)
+
+
+
+
+## Change Password.
+
+![Screenshot 2021-03-28 004826](https://user-images.githubusercontent.com/61795945/112732431-f03b1100-8f5f-11eb-97ad-b12bd321d28d.png)
+
+
+
 
 
 
