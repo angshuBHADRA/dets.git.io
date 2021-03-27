@@ -10,7 +10,8 @@
 
 
 :computer: [Demo Link](https://angshubhadra.github.io/dets.git.io/)
-**Log in Page**
+
+## Log in Page
 
 ![Screenshot 2021-03-13 022437](https://user-images.githubusercontent.com/61795945/110997827-f5b32b80-83a3-11eb-9e88-a5f058c46727.png)
 
