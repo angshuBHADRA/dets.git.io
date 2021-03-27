@@ -11,11 +11,16 @@
 
 :computer: [Demo Link](https://angshubhadra.github.io/dets.git.io/)
 
-## Log in Page
+##  Log in Page.
 
 ![Screenshot 2021-03-13 022437](https://user-images.githubusercontent.com/61795945/110997827-f5b32b80-83a3-11eb-9e88-a5f058c46727.png)
 
 
+
+## Dashboard.
+
+![![Screenshot 2021-03-28 003907](https://user-images.githubusercontent.com/61795945/112732278-f977ae00-8f5e-11eb-88af-4725240ce259.png)
+]
 
 
 ## :handshake: Contributer
