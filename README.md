@@ -22,8 +22,6 @@
 
 
 
-
-
 ## 👉 Dashboard.
 
 ![Screenshot 2021-03-28 003907](https://user-images.githubusercontent.com/61795945/112732278-f977ae00-8f5e-11eb-88af-4725240ce259.png)
@@ -48,8 +46,6 @@
 ## 👉 Change Password.
 
 ![Screenshot 2021-03-28 004826](https://user-images.githubusercontent.com/61795945/112732431-f03b1100-8f5f-11eb-97ad-b12bd321d28d.png)
-
-
 
 
 
