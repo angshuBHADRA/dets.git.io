@@ -52,7 +52,7 @@
 
 
 ## :handshake: Contributer
-  [hashAMAN](https://github.com/hashAMAN)
+ 🎯 [hashAMAN](https://github.com/hashAMAN)
 
 
 
